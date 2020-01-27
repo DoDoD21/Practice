@@ -1,0 +1,4 @@
+﻿  Первый.cpp
+C:\Users\DoDoD_21\source\repos\Первый\Первый\Первый.cpp(52,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\DoDoD_21\source\repos\Первый\Первый\Первый.cpp(146,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Первый.vcxproj -> C:\Users\DoDoD_21\source\repos\Первый\x64\Debug\Первый.exe
